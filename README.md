@@ -14,7 +14,7 @@ Ferramentes utilizadas:
   
   
   
-  [01trips](https://user-images.githubusercontent.com/67908082/144956991-84acc2bf-3d17-4dd8-b982-876b5dadad67.png)
+  ![01trips](https://user-images.githubusercontent.com/67908082/144956991-84acc2bf-3d17-4dd8-b982-876b5dadad67.png)
   
   
   
